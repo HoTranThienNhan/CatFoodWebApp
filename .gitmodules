@@ -1,0 +1,9 @@
+[submodule "cat-food-front-end"]
+	path = cat-food-front-end
+	url = https://github.com/HoTranThienNhan/cat-food-front-end.git
+[submodule "cat-food-front-end-admin"]
+	path = cat-food-front-end-admin
+	url = https://github.com/HoTranThienNhan/cat-food-front-end-admin.git
+[submodule "cat-food-back-end"]
+	path = cat-food-back-end
+	url = https://github.com/HoTranThienNhan/cat-food-back-end.git

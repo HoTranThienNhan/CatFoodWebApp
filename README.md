@@ -41,7 +41,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/8f6f0b18-cf0b-49ba-a53a-0be413f1ff06" width="70%"/>
     <div>
-      <em><b>Feature 1.</b> Home page</em>
+      <em><b>Figure 1.</b> Home page</em>
     </div>
   </div>
   </br>
@@ -49,7 +49,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/b8f464e5-0b86-4600-8830-3762fe4cdcf1" width="70%"/>
     <div>
-      <em><b>Feature 2.</b> Product detail page</em>
+      <em><b>Figure 2.</b> Product detail page</em>
     </div>
   </div>
   </br>
@@ -57,7 +57,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/88692ca9-edb5-4245-bfe0-3bc0356b0bb5" width="70%"/>
     <div>
-      <em><b>Feature 3.</b> Cart page</em>
+      <em><b>Figure 3.</b> Cart page</em>
     </div>
   </div>
   </br>
@@ -65,7 +65,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/58fd6931-6abd-4ca8-b954-dcac844a364e" width="70%"/>
     <div>
-      <em><b>Feature 4.</b> Order history page</em>
+      <em><b>Figure 4.</b> Order history page</em>
     </div>
   </div>
   </br>
@@ -78,7 +78,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/3a10e7a6-16a4-47db-bcd2-f423694f5f51" width="70%"/>
     <div>
-      <em><b>Feature 5.</b> Product management page</em>
+      <em><b>Figure 5.</b> Product management page</em>
     </div>
   </div>
   </br>
@@ -86,7 +86,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/b4731277-40f8-4bdc-bb3e-31a7c852e910" width="70%"/>
     <div>
-      <em><b>Feature 6.</b> Order management page</em>
+      <em><b>Figure 6.</b> Order management page</em>
     </div>
   </div>
   </br>
@@ -94,7 +94,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/CatFoodWebApp/assets/122293496/6e4e4113-bef4-4c7c-a116-9fc7820fad0c" width="70%"/>
     <div>
-      <em><b>Feature 7.</b> Order detail modal popup</em>
+      <em><b>Figure 7.</b> Order detail modal popup</em>
     </div>
   </div>
   </br>
